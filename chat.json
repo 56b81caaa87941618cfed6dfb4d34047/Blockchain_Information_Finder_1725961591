@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Create a dynamic button label that changes on click\", \"checked\": false}, {\"feature\": \"Add tooltip information to the button\", \"checked\": false}, {\"feature\": \"Implement a loading animation on button press\", \"checked\": false}, {\"feature\": \"Change the button color on hover\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 97, \"time_taken\": \"0:00:01.232433\"}",
+        "message_id": "guest10092024094737",
+        "timestamp": "10092024094808",
+        "component_file_name": "simple_footer_component_1725961596",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you prefer for the 'Hello World' button? Should it be bold and colorful or simple and minimalist?\", \"option1\": \"Bold and colorful\", \"option2\": \"Simple and minimalist\"}, {\"question 2\": \"Where would you like the 'Hello World' button to be positioned on the screen? At the top, bottom, or somewhere else?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}], \"input_token_count\": 293, \"output_token_count\": 109, \"time_taken\": \"0:00:02.146443\"}",
         "message_id": "guest10092024094737",
