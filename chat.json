@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you prefer for the 'Hello World' button? Should it be bold and colorful or simple and minimalist?\", \"option1\": \"Bold and colorful\", \"option2\": \"Simple and minimalist\"}, {\"question 2\": \"Where would you like the 'Hello World' button to be positioned on the screen? At the top, bottom, or somewhere else?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}], \"input_token_count\": 293, \"output_token_count\": 109, \"time_taken\": \"0:00:02.146443\"}",
+        "message_id": "guest10092024094737",
+        "timestamp": "10092024094800",
+        "component_file_name": "simple_footer_component_1725961596",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm adding a button that says \"Hello World.\"",
         "message_id": "guest10092024094737",
